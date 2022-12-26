@@ -1,3 +1,4 @@
+# :book: Summary & Functioning
 To fully run the application with: api server, build-watch, and browsersync, use the following commands:
 
 You will see that some commands make use of a docker network. Use `docker network create --subnet=172.18.0.0/16 npm-net` to create a user defined network.
